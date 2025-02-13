@@ -1,0 +1,3 @@
+[console_scripts]
+ccds=ccds.__main__:main
+
